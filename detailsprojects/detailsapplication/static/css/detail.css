@@ -1,0 +1,43 @@
+.one{
+    height: 100vh;
+    width: 100vw;
+    background-color:rgb(219, 151, 126);
+}
+.two{
+    height: 450px;
+    width: 450px;
+    background-color: beige;
+    margin-top: 80px;
+    margin-left: 100px;
+    border-radius: 40px;
+}
+.mb-3{
+    text-align: center;
+    width: 400px;
+    
+}
+#exampleInputname{
+    margin-left: 25px;
+    border: 2px solid rgb(219, 151, 126);
+    border-radius: 30px;
+}
+#exampleInputaddress{
+    margin-left: 25px;
+    border: 2px solid rgb(219, 151, 126);
+    border-radius: 30px;
+}
+#exampleInputphone{
+    margin-left: 25px;
+    border: 2px solid rgb(219, 151, 126);
+    border-radius: 30px;
+}
+.three{
+    height: 450px;
+    width: 600px;
+    background-color: beige;
+    margin-top: 80px;
+    border-radius: 40px;
+    border:  14px solid rgb(219, 151, 126) ;
+    
+
+}
